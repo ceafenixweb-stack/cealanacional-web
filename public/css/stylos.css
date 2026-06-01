@@ -23,7 +23,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
-  background: url("./public/imgs/auto1.png") center/cover no-repeat;
+  background: url("../imgs/auto1.png") center/cover no-repeat;
   overflow: hidden;
 }
 
